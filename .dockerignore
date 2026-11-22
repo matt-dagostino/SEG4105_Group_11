@@ -1,0 +1,38 @@
+# Git & version control
+.git
+.gitignore
+.gitattributes
+
+# Documentation & project specs
+docs/
+README.md
+*.md
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies & build artifacts
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+bin/
+obj/
+dist/
+build/
+.next/
+
+# Logs, caches & local editor/OS files
+*.log
+*.tmp
+*.cache
+.pytest_cache/
+.ruff_cache/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
