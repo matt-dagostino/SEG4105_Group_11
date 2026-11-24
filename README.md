@@ -38,8 +38,8 @@ SmartRoute AI is a cloud-based, autonomous customer-support and lead-routing pla
 
 ## Documentation
 
-- [Software Components](docs/[COMPONENTS.md](http://COMPONENTS.md))
+- [Software Components](docs/[COMPONENTS.md])
 
-- [System Architecture](docs/[ARCHITECTURE.md](http://ARCHITECTURE.md))
+- [System Architecture](docs/[ARCHITECTURE.md])
 
-- [Development Methodology](docs/[METHODOLOGY.md](http://METHODOLOGY.md))
+- [Development Methodology](docs/[METHODOLOGY.md])
